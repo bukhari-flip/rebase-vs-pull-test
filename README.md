@@ -8,6 +8,10 @@ This is repo to test rebase vs pull
 
 - Change 2
 
+- Change 3
+
+- Change 4
+
 ## Changes on pull-from-main-before-push
 
 - Change 1
