@@ -14,3 +14,5 @@ This is repo to test rebase vs pull
 ## Changes on rebase-from-main-before-push
 
 - Change 1
+
+- Change 2
