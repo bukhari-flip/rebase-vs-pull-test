@@ -7,7 +7,10 @@ This is repo to test rebase vs pull
 - Change 1
 
 - Change 2
-
 - Change 3
 
 - Change 4
+
+## Changes on rebase-from-main-before-push
+
+- Change 1
